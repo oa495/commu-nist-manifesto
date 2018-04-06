@@ -1,4 +1,4 @@
-# commu-nist-manifesto
+# commu-ters-manifesto
 
 Ladies and Gentlemen, we are delayed because of train traffic ahead. We should be moving shortly, we apologize for the inconvenience.
 
